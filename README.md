@@ -1,1 +1,1 @@
-Repository for to share code samples
+Repository to share some simple code samples
